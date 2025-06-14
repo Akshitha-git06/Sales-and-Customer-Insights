@@ -1,7 +1,14 @@
-# Sales-and-Customer-Insights-Dashboard-in-Power-BI
+# Sales-and-Customer-Insights
 An interactive Power BI dashboard designed to uncover key business insights from sales and customer data. Built using the Set-up/Conflict/Resolution storytelling framework to support data-driven decision-making.
 
-# Sales and Customer Insights Dashboard in Power BI
+# Sales and Customer Insights 
+
+**Power BI Dashboard**
+
+Here’s a glimpse of the final dashboard designed for storytelling:
+
+<img width="638" alt="image" src="https://github.com/user-attachments/assets/7460ca7a-8eae-41dd-a9a5-f3d30dfdd388" />
+
 
 ## 📌 Overview
 This project showcases an interactive Power BI dashboard developed to analyze sales trends, customer behavior, and performance metrics. It provides actionable insights for business decision-makers using a clean, story-driven layout based on Berinato’s Set-up/Conflict/Resolution framework.
