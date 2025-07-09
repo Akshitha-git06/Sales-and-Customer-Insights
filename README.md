@@ -21,6 +21,8 @@ The dashboard is designed to help users identify growth opportunities, evaluate 
 - Storytelling approach to guide users from context to resolution
 - Dedicated pages for metadata and conclusions
 
+---
+
 ## 📁 File Included
 - `Sales_Customer_Insights_Dashboard.pbix` – Power BI dashboard file
 
@@ -51,7 +53,6 @@ Business analysts, marketing teams, sales managers, and decision-makers who need
 This dashboard was developed to present complex data in an accessible and decision-oriented format, enabling users to draw conclusions and take action based on real-time insights.
 
 ---
-
 
 # Connect With Me
 
